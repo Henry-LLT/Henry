@@ -1,1 +1,1 @@
-# Henry
+# 1340 Group Project
